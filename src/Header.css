@@ -1,0 +1,28 @@
+.header {
+    margin-top: 15pt;
+}
+.header  h1,nav,ul,li{
+    display: inline;
+}
+
+.header h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: normal;
+    margin-left: 20pt;
+}
+
+.header nav{
+    margin-left: 10pt;
+}
+
+.header a{
+    margin-right: 10pt;
+    color: black;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+.header hr{
+    margin-top: 18pt;
+}

@@ -1,6 +1,6 @@
 function Footer() {
     return(
-        <footer>
+        <footer className = 'footer'>
             <p>&copy; 2024 IT-SYSARCH31-78625 Made by Nikko Kyle Espina</p>
         </footer>
     );

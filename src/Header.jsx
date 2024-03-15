@@ -1,6 +1,6 @@
 function Header() {
     return(
-        <header>
+        <header className = "header">
             <h1>Nikko Kyle</h1>
             <nav>
                 <ul>
